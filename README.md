@@ -1,128 +1,122 @@
-# Skills
-## Technischen Skills
-### Python
-Biblothiken: pandas, matplotlib, OpenCV, Keras
+# Portfolio
 
-### Flutter
-Provider, Bloc, RESTful
+Welcome to my personal portfolio! Here you'll find information about my technical skills, projects, work experience, and education. Feel free to explore the details below.
 
-### SQL
-Software: MySQL
+---
 
-### Excel
-Tools: Pivot Table, Pivot Chart,
-VLOOKUP, HLOOKUP, VBA0
+## 🛠️ Skills
 
-### Microsoft Azure
-Tools: Azure SQL, Azure Data Factory
-
-### Tableu
-Tools: DAX, API, Power Query
-
-### Security und Complaince
-Windows Security: Windows Defender/ 
-Firewall
-Compliance framework: GDPR
+### Technical Skills
+- **Python**: pandas, matplotlib, OpenCV, Keras
+- **Flutter**: Provider, Bloc, RESTful APIs
+- **SQL**: MySQL
+- **Excel**: Pivot Table, Pivot Chart, VLOOKUP, HLOOKUP, VBA
+- **Microsoft Azure**: Azure SQL, Azure Data Factory
+- **Tableau**: DAX, API, Power Query
+- **Security & Compliance**:
+  - Windows Security: Windows Defender, Firewall
+  - Compliance: GDPR
 
 ### Soft Skills
-Kommunikationsfähigkeiten
-Teamarbeit und Zusammenarbeit
-Zeitmanagement
-Anpassungsfähigkeit
+- Communication
+- Teamwork & Collaboration
+- Time Management
+- Adaptability
 
+---
 
-# Kenntnisse
-## Sprachen
-### Deutsch
-Sehr gut
+## 🌍 Language Proficiency
 
-### English
-Sehr gut
+- **German**: Proficient
+- **English**: Proficient
+- **Arabic**: Fluent
 
-### Arabisch
-Fließend
+---
 
-# Projekte
-### OBJEKTERKENNUNG – Personal Projekt – Merseburg, DE 
-### März 2024
-- Entwickelte ein Echtzeit-Objekterkennungssystem unter Verwendung von Python und OpenCV, das Objekte in Videostreams 
-erkennt und klassifiziert
-- Implementierte Computer Vision-Techniken wie Bildverarbeitung und Feature-Extraktion unter Einsatz vortrainierter Modelle 
-(YOLOv5), um eine hohe Erkennungsgenauigkeit zu gewährleisten
-- Visualisierte die Ergebnisse der Objekterkennung mit Matplotlib und stellte das System erfolgreich für Anwendungen in 
-Überwachung und Robotik berei
+## 📂 Projects
 
-### EMOTIONENERKE NNUNGSSYSTEM – Personal Projekt – Merseburg, DE 
-### März 2024
-- Entwickelte ein System zur Erkennung von Emotionen in Bildern und Videos mittels Convolutional Neural Networks (CNNs)
-- Sammelte und verarbeitete einen umfangreichen Datensatz von Gesichtsbildern mit verschiedenen emotionalen Ausdrücken zur 
-Modellierung und Klassifizierung
-- Erstellte und trainierte ein CNN-Modell zur präzisen Klassifizierung von Emotionen, was eine hohe Erkennungsrate ermöglichte
-- Visualisierte die Ergebnisse der Emotionserkennung und optimierte kontinuierlich die Modellgenauigkeit durch iterative 
-Anpassungen
-- Nutze Python, Keras und TensorFlow zur Implementierung und OpenCV zur Bildvorverarbeitung
+### Object Detection – Personal Project – Merseburg, Germany  
+**March 2024**  
+- Built a real-time object detection system with Python and OpenCV, identifying and classifying objects in video streams.
+- Implemented image processing and feature extraction using YOLOv5 for high accuracy.
+- Visualized results using Matplotlib and applied the system to surveillance and robotics.
 
-### PFLEGE DIENSTE -APP – Akademische Projekt, Verteile Systeme – HS Merseburg, DE 
-### Oktober 2023- Januar 2024
-- Zusammenarbeit im Team zur Implementierung und Optimierung der App, um die Anforderungen von Pflegepersonal und 
-Patienten bestmöglich zu erfüllen
-- Verantwortlich für die Erstellung von UML-Diagrammen zur Modellierung der Anwendungsarchitektur und Datenflüsse
-- Strukturierte JSON-Daten zur Sicherstellung einer konsistenten und effizienten Datenverwaltung innerhalb der App
+---
 
+### Emotion Recognition System – Personal Project – Merseburg, Germany  
+**March 2024**  
+- Developed an emotion recognition system using Convolutional Neural Networks (CNNs) for images and videos.
+- Collected a dataset of facial expressions for training and classification.
+- Built and optimized a CNN model for high classification accuracy using Python, Keras, TensorFlow, and OpenCV.
 
-### ÜBERSETZER WEB – Akademische Projekt, Webtechnologien – HS Merseburg, DE 
-### April 2023- Juli 2023
-- Entwickelte eine Übersetzer-Website unter Verwendung von HTML, CSS und JavaScript, die Echtzeit-Übersetzungsdienste 
-anbietet
-- Integrierte eine Übersetzer-API, um die Übersetzung von Texten in verschiedene Sprachen nahtlos zu ermöglichen
-- Gestaltete eine intuitive Benutzeroberfläche, die eine benutzerfreundliche und einfache Bedienung der Übersetzungsfunktionen 
-gewährleistet
-- Setzte MySQL für die Verwaltung von Benutzerdaten und Übersetzungsanfragen ein, um eine effiziente Datenverarbeitung und 
-Speicherung zu gewährleisten
+---
 
-### CHAT APP – Akademische Projekt, Mobile Computing – HS Merseburg, DE 
-### April 2023- Juli 2023
-- Entwickelte eine Chat-Anwendung mit Flutter, die Echtzeit-Nachrichtenübermittlung ermöglicht und eine reibungslose 
-Kommunikation zwischen Benutzern sicherstellt
-- Integrierte Firebase zur sicheren Speicherung und Verwaltung von Benutzerdaten und Nachrichten, um eine zuverlässige 
-Datenpersistenz zu gewährleisten
-- Implementierte Funktionen wie Benutzeranmeldung und Profilverwaltung, um eine personalisierte und sichere 
-Benutzererfahrung zu bieten
-- Gestaltete eine benutzerfreundliche Oberfläche, die eine intuitive Bedienung und eine nahtlose Benutzererfahrung ermöglicht
+### Care Services App – Academic Project, Distributed Systems – HS Merseburg  
+**October 2023 – January 2024**  
+- Worked in a team to develop an app for healthcare professionals and patients.
+- Designed UML diagrams for application architecture and data flow.
+- Structured JSON data for efficient data management.
 
-# Erfahrungen
-### QUALITÄT E VLAUTOR – DE SPARTE – Microsoft, auslagerung Concentrix – Kairo, EG 
-### Februar 2021 – September 2021
-- Analyse die Geschäftsberichte bsw. die Leistungen der Supporters 
-- Überprüfung und Unterstützung der technischen Fähigkeiten der Supporters 
-- Verbesserung die Softskills und Kommunikationsfähigkeiten der Technichal Supporters
-- Befürwortung und Förderung von Soft Skills
+---
 
-# TECHNISCHE SUPPORT – DE SPARTE – Microsoft, auslagerung Concentrix – Kairo, EG 
-### Januar 2020 - Februar 2021
-- Unterstützung von Endbenutzern und Administratoren bei der Behebung von Fehlern des Windows-Betriebssystems
-- Unterstützung von Endbenutzern und Administratoren bei der Behebung von MS-Office Fehlern 
-- Breitstellung die Fähigkeit, technische Informationen an nicht-technische Kunden
-- Ursachenanalyse und Problemlösung
-- Fehlerbehebung bei Software- und Hardware-Problemen.
-- Technichal Support Stufe Il
+### Translator Web App – Academic Project, Web Technologies – HS Merseburg  
+**April 2023 – July 2023**  
+- Created a translation website using HTML, CSS, and JavaScript with real-time translation services.
+- Integrated a translator API for seamless multi-language translations.
+- Designed an intuitive user interface and used MySQL for data management.
 
-# KUNDENDIE NST – DE SPARTE – Odigeo, auslagerung Xceed – Kairo, EG 
-### September 2019 - Januar 2020
-- Ausstellung von Flugtickets mit dem Amadeus-System
-- Versorgung den Kunden die genaue Informationen und die richtigen Lösungen
-- Bearbeitung von Anfragen und Beschwerden der Kunde
+---
 
-# KUNDENDIE NST – DE SPARTE – Vodafone – Kairo, EG 
-### Dezember 2015 – März 2018
-- Bearbeitung von Anfragen und Beschwerden der Kunden
-- Protokollieren Kundendaten im CRM 
-- Führt andere Aufgaben aus, die vom Management zugewiesen werden
+### Chat App – Academic Project, Mobile Computing – HS Merseburg  
+**April 2023 – July 2023**  
+- Developed a Flutter chat app with real-time messaging capabilities.
+- Integrated Firebase for secure data storage and user authentication.
+- Designed a user-friendly interface for a smooth user experience.
 
-# Bildung
-### M.EN. AUTOAMTISIERUNGSTECHNIK UND INFORMATIK– Hochschule Merseburg– Merseburg, DE 
-### April 2023 - Präsens
-#### Majore: Embedd System, Computergestütze Daten Analyse, Simulation, Mobile Computing
-### B.SE . IM M ANAGEMENT INFORM ATIONSSYSTEM S – Future Academy – Kairo, EG 
-### September 2017
-#### Majore: Wirtschaftsstudien, International Business, Datenbanken, Analyse und Desgin der Informationssystem
+---
+
+## 💼 Work Experience
+
+### Quality Evaluator – German Department – Microsoft (Concentrix) – Cairo, Egypt  
+**February 2021 – September 2021**  
+- Analyzed business reports and assessed team performance.
+- Supported technical and soft skills development for support staff.
+
+---
+
+### Technical Support Specialist – German Department – Microsoft (Concentrix) – Cairo, Egypt  
+**January 2020 – February 2021**  
+- Provided support for Windows OS and MS Office issues to end-users.
+- Delivered technical guidance in non-technical language for users.
+- Troubleshot software and hardware issues.
+
+---
+
+### Customer Service Representative – German Department – Odigeo (Xceed) – Cairo, Egypt  
+**September 2019 – January 2020**  
+- Issued flight tickets using Amadeus system and handled customer inquiries.
+
+---
+
+### Customer Service Representative – German Department – Vodafone – Cairo, Egypt  
+**December 2015 – March 2018**  
+- Managed customer inquiries and complaints, logging data in CRM systems.
+
+---
+
+## 🎓 Education
+
+### M.Eng. in Automation Technology and Computer Science  
+**Hochschule Merseburg – Merseburg, Germany**  
+**April 2023 – Present**  
+- Majors: Embedded Systems, Data Analysis, Simulation, Mobile Computing
+
+### B.Sc. in Management Information Systems  
+**Future Academy – Cairo, Egypt**  
+**September 2017**  
+- Majors: Business Studies, International Business, Databases, Information Systems Analysis & Design
+
+---
+
+Feel free to explore the code and project demos on this GitHub page!
+
