@@ -37,9 +37,9 @@ Welcome to my personal portfolio! Here you'll find information about my technica
 
 ### Object Detection – Personal Project – Merseburg, Germany  
 **March 2024**  
-- Developed a **real-time object detection system** using **Python** and **OpenCV**, which identifies and classifies objects in video streams.
-- Implemented **computer vision techniques** like **image processing** and **feature extraction** using **YOLOv5** for high accuracy.
-- Visualized results using **Matplotlib** and applied the system for **surveillance** and **robotics** applications.
+- Developed a **real-time object detection system** using **Python** and **OpenCV**, identifying and classifying objects in video streams.
+- Implemented **computer vision techniques** like **image processing** and **feature extraction** with **YOLOv5** for high accuracy.
+- Visualized results using **Matplotlib** and applied the system for **surveillance** and **robotics**.
 
 ---
 
@@ -48,31 +48,31 @@ Welcome to my personal portfolio! Here you'll find information about my technica
 - Built an **emotion recognition system** for images and videos using **Convolutional Neural Networks (CNNs)**.
 - Collected a large dataset of **facial expressions** for model training and classification.
 - Created and trained a **CNN model**, achieving high accuracy in emotion classification.
-- Utilized **Python**, **Keras**, and **TensorFlow** for model development and **OpenCV** for image preprocessing.
+- Utilized **Python**, **Keras**, **TensorFlow** for model development and **OpenCV** for image preprocessing.
 
 ---
 
 ### Care Services App – Academic Project, Distributed Systems – HS Merseburg  
 **October 2023 – January 2024**  
-- Collaborated in a team to develop an app tailored for **healthcare professionals** and **patients**.
-- Designed **UML diagrams** to model the app's **architecture** and **data flow**.
-- Structured **JSON data** for consistent and efficient data management within the app.
+- Collaborated to develop an app tailored for **healthcare professionals** and **patients**.
+- Designed **UML diagrams** to model the app’s **architecture** and **data flow**.
+- Structured **JSON data** for consistent and efficient data management.
 
 ---
 
 ### Translator Web App – Academic Project, Web Technologies – HS Merseburg  
 **April 2023 – July 2023**  
-- Developed a **translator website** using **HTML**, **CSS**, and **JavaScript** with real-time translation services.
-- Integrated a **translator API** to enable seamless multi-language translation.
-- Designed an intuitive **user interface** for easy navigation and used **MySQL** for managing user data and translation requests.
+- Developed a **translation website** using **HTML**, **CSS**, and **JavaScript** to offer real-time translation services.
+- Integrated a **translation API** for seamless multi-language translations.
+- Designed an intuitive **user interface** and used **MySQL** for data management and processing.
 
 ---
 
 ### Chat App – Academic Project, Mobile Computing – HS Merseburg  
 **April 2023 – July 2023**  
-- Developed a **chat application** using **Flutter** that enables **real-time messaging** between users.
+- Developed a **chat application** using **Flutter** that supports **real-time messaging**.
 - Integrated **Firebase** for secure **data storage** and user authentication.
-- Implemented features like **user registration**, **profile management**, and designed a **user-friendly interface** for a smooth experience.
+- Implemented **user registration** and **profile management** features, and designed a **user-friendly interface** for smooth interaction.
 
 ---
 
